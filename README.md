@@ -1,5 +1,5 @@
 
-## Description
+## Description 📃
 **Node Chat is** website built with **NodeJs & Socket. io** as a backend and using **PostgreSQL** as a DB,
 
 **Node Chat** allows you to create an account then you can either **create a new room or join an existing one**, and rooms act like a group in any social media platform.
@@ -8,7 +8,7 @@
 
  if you send a message to the chat using the input below, **any person in that room will receive the message and then they can text you back, when you switch to another room it won't be possible to see the message in the other room you joined.**
 
-## Developing Details
+## Developing Details 🧑‍💻
 
 This entire website **focused more on the backend**, not the frontend, so you can see the **frontend was plain Html & Css & Javascript.**
 
